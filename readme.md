@@ -1,6 +1,8 @@
 
 
-<span style="font-family: 'Times New Roman', serif; color: turquoise;">Chopapik</span>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bb9a52b8-107b-4b74-b125-223a78f0215f" alt="user">
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chopapik/chopapik/output/github-contribution-grid-snake-dark.svg">
