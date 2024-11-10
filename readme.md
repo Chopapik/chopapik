@@ -10,6 +10,6 @@
 </picture>
 
 
-<p align="center" style="margin-top: 20px;">
+<p align="center" style="margin-top: 50px;">
   <img src="https://github.com/user-attachments/assets/f627d47b-155c-4239-9958-6eac65337d61" alt="err">
 </p>
