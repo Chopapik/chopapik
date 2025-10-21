@@ -16,8 +16,7 @@
 ## Current Stack
 
 <p align="left">
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,vue,nodejs,git,github,aws,docker,postgres,mongodb,vscode)](https://skillicons.dev)
-
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,vue,nodejs,git,github,aws,docker,postgres,mongodb,vscode" />
 </p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chopapik/chopapik/output/github-contribution-grid-snake-dark.svg">
