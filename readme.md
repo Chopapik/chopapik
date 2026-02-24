@@ -13,15 +13,4 @@
 
 ![Group 1](https://github.com/user-attachments/assets/56f1d629-8cc3-42d2-908f-a58016f110cd)
 
-## Current Stack
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=ts,react,redux,tailwind,nodejs,express,dotnet,cs,postgres,mongodb,docker,git,npm,vscode,figma" />
-</p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chopapik/chopapik/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chopapik/chopapik/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chopapik/chopapik/output/github-contribution-grid-snake.svg">
-</picture>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chopapik&layout=compact&theme=dark)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chopapik&layout=compact&theme=dark) -->
